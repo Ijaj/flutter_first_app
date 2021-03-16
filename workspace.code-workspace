@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[dart]": {
+			"editor.defaultFormatter": "ms-vscode.cpptools",
+			"editor.formatOnSave": false,
+			"editor.formatOnType": false,
+			"editor.tabCompletion": "on",
+		},
+	}
+}
